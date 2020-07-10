@@ -12,3 +12,5 @@ Escribe.R
 
 Modelo:
 Modelo_05.R
+
+Explicación de los datos: An applied case of Nonlinear optimization with constraints.pdf
